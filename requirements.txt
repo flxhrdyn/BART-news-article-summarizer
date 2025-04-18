@@ -1,8 +1,7 @@
+streamlit
 beautifulsoup4
 lxml
 nltk
-streamlit
-textwrap
-torch
 transformers
-urllib3
+torch
+textwrap3
