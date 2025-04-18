@@ -1,0 +1,7 @@
+beautifulsoup4
+nltk
+streamlit
+textwrap
+torch
+transformers
+urllib3
